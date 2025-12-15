@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "花の唄",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-15T13:54:13.133113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花の唄",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_花の唄_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花の唄 end of spring ver. - end of spring version",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_花の唄_end_of_spring_ver._-_end_of_spring_version_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花の唄 end of spring ver.",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_花の唄_end_of_spring_ver._Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花の唄 end of spring ver.",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_花の唄_end_of_spring_ver._Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花の唄",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_花の唄_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花の唄 end of spring ver.",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_花の唄_end_of_spring_ver._Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花の唄 end of spring ver.",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_花の唄_end_of_spring_ver._Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "花の唄 (Movie ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_花の唄_(Movie_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "花の唄 (Fate)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_花の唄_(Fate)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "花の唄 (End of Spring version)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_花の唄_(End_of_Spring_version)_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花の唄",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_花の唄_Aimer.txt"
+    }
+  ]
+}
